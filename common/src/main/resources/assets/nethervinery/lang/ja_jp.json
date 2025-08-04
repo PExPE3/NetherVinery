@@ -57,9 +57,9 @@
   "effect.nethervinery.gravedigger.description": "最後に死亡した場所へ戻る",
   "effect.nethervinery.improved_gravedigger": "歪んだ墓堀り人",
   "effect.nethervinery.improved_gravedigger.description": "最後に死亡した場所へ戻り、衝撃吸収と再生を付与する",
-  "effect.nethervinery.hearthstone": "炉端の敷石",
+  "effect.nethervinery.hearthstone": "炉端の帰還",
   "effect.nethervinery.hearthstone.description": "ベッドのある場所へ戻る",
-  "effect.nethervinery.improved_hearthstone": "炉端の真紅石",
+  "effect.nethervinery.improved_hearthstone": "真紅の帰還",
   "effect.nethervinery.improved_hearthstone.description": "ベッドのある場所へ戻り、衝撃吸収と再生を付与する",
   "itemGroup.nethervinery.nethervinery_tab": "【Let's Do】Nether Vinery",
   "rei.nethervinery.wine_press_category": "リンゴ圧搾機"
